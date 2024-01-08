@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj": {}
+    "C:\\Users\\Lívia\\Workspace\\aulao-decolatech-4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj": {
+    "C:\\Users\\Lívia\\Workspace\\aulao-decolatech-4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj",
+        "projectUniqueName": "C:\\Users\\Lívia\\Workspace\\aulao-decolatech-4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj",
-        "packagesPath": "C:\\Users\\André Magalhães\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Construtores - Livia\\projeto\\obj\\",
+        "projectPath": "C:\\Users\\Lívia\\Workspace\\aulao-decolatech-4\\Utilizando Construtores - Livia\\projeto\\projeto.csproj",
+        "packagesPath": "C:\\Users\\Lívia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lívia\\Workspace\\aulao-decolatech-4\\Utilizando Construtores - Livia\\projeto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\André Magalhães\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lívia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
