@@ -1,6 +1,5 @@
 <div align="center">
-
-  <img src="https://hermes.dio.me/files/assets/a55f9b8c-51af-4c1b-a9d7-d38d2b4d7e3e.png" height=120px>
+  <img height="300" src="https://hermes.dio.me/files/assets/a55f9b8c-51af-4c1b-a9d7-d38d2b4d7e3e.png" height=120px>
 </div>
 
 # Aulão - Decola Tech 4
