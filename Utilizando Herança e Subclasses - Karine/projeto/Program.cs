@@ -31,6 +31,11 @@ class Program
 {
     static void Main()
     {
+        string nome = Console.ReadLine();
+        int mana = int.Parse(Console.ReadLine());
+        int danoBase = int.Parse(Console.ReadLine());
 
+        Subclasse personagem = new Subclasse(nome, mana, danoBase);
+        personagem.CalcularDano();
     }
 }
