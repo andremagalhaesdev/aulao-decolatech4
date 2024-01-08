@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\conta\\.nuget\\packages\\": {}
+    "C:\\Users\\André Magalhães\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\conta\\OneDrive\\Área de Trabalho\\DIO\\Desafios de codigo\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
+      "projectUniqueName": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
       "projectName": "projeto",
-      "projectPath": "C:\\Users\\conta\\OneDrive\\Área de Trabalho\\DIO\\Desafios de codigo\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
-      "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\conta\\OneDrive\\Área de Trabalho\\DIO\\Desafios de codigo\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\obj\\",
+      "projectPath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
+      "packagesPath": "C:\\Users\\André Magalhães\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\André Magalhães\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,5 +70,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

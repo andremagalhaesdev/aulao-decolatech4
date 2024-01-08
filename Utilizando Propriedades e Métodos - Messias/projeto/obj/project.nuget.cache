@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "X1insPxiZspQm0yKb9WQSR59h019YjNTZvsMy5Ecpm3reQjp5yuZUVSAvt2uEISUa0b0LmzlqmFGlNiOfrGiGw==",
+  "dgSpecHash": "EUCCsDk5nUID4puTaZDv82cFLCatedbNLOx/gywwHlW6DKthxNNHrEaFwh0HD/r7YqZKzsdla7Z100WoO5B16g==",
   "success": true,
   "projectFilePath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Propriedades e Métodos - Messias\\projeto\\projeto.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\André Magalhães\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\André Magalhães\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\André Magalhães\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\André Magalhães\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Propriedades e Métodos - Messias\\projeto\\obj\\project.nuget.cache : Value cannot be null. (Parameter 'value')"
+    }
+  ]
 }

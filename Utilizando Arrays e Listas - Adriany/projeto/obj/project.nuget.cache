@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "fKSzemdq9/Ssv7CUJtSOIDBxhRHTUJDuMFZZ1PBeFOVkfvMWxNw/nnNVVATd3Md7Fh3mhy4vpIYHm+C1yHt4gg==",
+  "dgSpecHash": "a47mLYimQ4Aye+KA2t5xS/e4pMvTW9JTvuaTl9aoNmBVXB0P2zo4HbkNs7rj/BlM6m4llZv8SjpffZ0PlOKEzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conta\\OneDrive\\Área de Trabalho\\DIO\\Desafios de codigo\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
+  "projectFilePath": "C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\projeto.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\André Magalhães\\Desktop\\PROJETOS\\PROJETOS C# (.NET)\\aulao-decolatech4\\Utilizando Arrays e Listas - Adriany\\projeto\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

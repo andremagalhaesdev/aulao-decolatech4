@@ -3,7 +3,8 @@
 class Pessoa
 {
 
-
+    public string nome;
+    public int idade;
 
     public Pessoa(string n, int i)
     {
@@ -22,11 +23,19 @@ class Pessoa
     }
 }
 
+
 class Program
 {
+
     static void Main()
     {
 
+        string nome = Console.ReadLine();
+        int idade = Convert.ToInt32(Console.ReadLine());
+
+        Pessoa pessoa = new Pessoa(nome, idade);
+
+        Console.WriteLine($"Nome: {pessoa.GetNome()}, Idade: {pessoa.GetIdade()}");
 
     }
 }
