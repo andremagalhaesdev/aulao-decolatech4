@@ -7,25 +7,20 @@ class Jogador
     public int Idade { get; set; }
     public string Posicao { get; set; }
 
-    public Jogador()
-    {
-    public string Nome { get; set; }
-    public string Nacionalidade { get; set; }
-    public int Idade { get; set; }
-    public string Posicao { get; set; }
 
     public Jogador(string nome, string nacionalidade, int idade, string posicao)
     {
-     Nome = nome;
-     Nacionalidade = nacionalidade;
-     Idade = idade;
-     Posicao = posicao;
+        Nome = nome;
+        Nacionalidade = nacionalidade;
+        Idade = idade;
+        Posicao = posicao;
     }
-    public void Apresentar(){
-       Console.WriteLine($"Jogador criado!\n {Nome}\n {Nacionalidade} \n {Idade} \n Posição: {Posicao}");
-    }
+    public void Apresentar()
+    {
+        Console.WriteLine($"Jogador criado!\n {Nome}\n {Nacionalidade} \n {Idade} \n Posição: {Posicao}");
     }
 }
+
 
 class Program
 {
