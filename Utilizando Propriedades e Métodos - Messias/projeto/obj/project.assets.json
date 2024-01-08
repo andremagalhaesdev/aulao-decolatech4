@@ -8,19 +8,14 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JMESSIAS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JMESSIAS\\Desktop\\aulao-decolatech4\\Utilizando Propriedades e Métodos - Messias\\projeto\\projeto.csproj",
-      "projectName": "projeto",
-      "projectPath": "C:\\Users\\JMESSIAS\\Desktop\\aulao-decolatech4\\Utilizando Propriedades e Métodos - Messias\\projeto\\projeto.csproj",
-      "packagesPath": "C:\\Users\\JMESSIAS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JMESSIAS\\Desktop\\aulao-decolatech4\\Utilizando Propriedades e Métodos - Messias\\projeto\\obj\\",
+
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\JMESSIAS\\AppData\\Roaming\\NuGet\\NuGet.Config"
+
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -54,12 +49,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }
